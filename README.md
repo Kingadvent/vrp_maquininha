@@ -4,7 +4,7 @@
 <a href="https://imgur.com/gou8HUP"><img src="https://i.imgur.com/gou8HUP.png" title="source: imgur.com" /></a>
 
 # Antiga Hud
-<a href="https://imgur.com/ZI7p1fF"><img src="https://i.imgur.com/ZI7p1fF.png" title="source: imgur.com" /></a>
+https://i.imgur.com/ZI7p1fF.png
 
 
 VRP Old esta com bug na hora de achar o celular
