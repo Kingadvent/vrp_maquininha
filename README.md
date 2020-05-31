@@ -1,6 +1,6 @@
-# vRP or vRPex  Maquininha
+# vRP old or vRPex  Maquininha
 
-VRP old esta com bug na hora de achar o celular
+# VRP Old esta com bug na hora de achar o celular
 
 <a href="https://imgur.com/ZI7p1fF"><img src="https://i.imgur.com/ZI7p1fF.png" title="source: imgur.com" /></a>
 
